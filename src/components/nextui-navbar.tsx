@@ -33,7 +33,7 @@ export default function NextNavbar() {
             href="/"
             className="text-2xl font-bold leading-tight tracking-tighter"
           >
-            Convertall <span className="text-indigo-500">.io</span>
+            Convertify <span className="text-indigo-500">X</span>
           </Link>
         </NavbarBrand>
       </NavbarContent>
@@ -65,14 +65,14 @@ export default function NextNavbar() {
             }}
           >
             <Link
-              href=""
+              href="https://github.com/Md-Zainulabdin/File-Converter"
               target="_blank"
               className="text-white text-sm hidden sm:flex"
             >
               Explore Github
             </Link>
             <Link
-              href=""
+              href="https://github.com/Md-Zainulabdin/File-Converter"
               target="_blank"
               className="text-white text-sm sm:hidden"
             >

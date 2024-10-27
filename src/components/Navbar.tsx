@@ -36,7 +36,7 @@ const Navbar = () => {
       </div>
 
       <div className="flex items-center justify-center border px-4 py-1 rounded-full">
-        <Link href={""}>
+        <Link href={"https://github.com/dev-grid/convertall.io"}>
           {" "}
           <span>Github Repo</span>
         </Link>
