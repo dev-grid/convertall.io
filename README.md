@@ -1,13 +1,13 @@
 <div align="center">
   <br />
-    <a href="https://convertall.vercel.app/" target="_blank">
+    <a href="https://convertifyx.vercel.app/" target="_blank">
       <img src="./public/images/project 2.jpg" style="border-radius: 10px" alt="Project Banner">
     </a>
   <br />
 
   <h3 align="center">Free Unlimited File Converter</h3>
   <div align="center">
-    Unleash your creativity with Convertall – the ultimate online tool for unlimited and free multimedia conversion. Transform images, audio, and videos effortlessly, without restrictions. Start converting now and elevate your content like never before!
+    Unleash your creativity with ConvertifyX – the ultimate online tool for unlimited and free multimedia conversion. Transform images, audio, and videos effortlessly, without restrictions. Start converting now and elevate your content like never before!
     </div>
 
 </div>
